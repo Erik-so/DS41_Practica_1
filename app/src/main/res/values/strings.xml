@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Convertidor</string>
+
+    <string-array name="covert_options">
+        <item>°C -> °F</item>
+        <item>°C -> °K</item>
+        <item>°F -> °C</item>
+        <item>°F -> °K</item>
+        <item>°K -> °C</item>
+        <item>°K -> °F</item>
+    </string-array>
+
+</resources>
